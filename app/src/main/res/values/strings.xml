@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTrip</string>
+    <string name="distancia">Distancia</string>
+    <string name="preco">Preço</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="enviar">Enviar</string>
+    <string name="calcular">Calcular</string>
+    <string name="valores_validos">Informe valores validos</string>
+</resources>
